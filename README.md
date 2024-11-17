@@ -27,12 +27,12 @@ The Simon Game is a classic memory game implemented using HTML, CSS, and JavaScr
 ## How to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/simon-game-project.git
+   git clone https://github.com/CyberHunter8857/Simon_Game.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd simon-game-project
+   cd Simon_Game
    ```
 
 3. **Open the Project**:
@@ -40,7 +40,7 @@ The Simon Game is a classic memory game implemented using HTML, CSS, and JavaScr
 
 ## Project Structure
 ```
-simon-game-project/
+Simon_Game/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -54,10 +54,10 @@ simon-game-project/
 
 ## Screenshots
 ### Initial Screen
-![Game Start](screenshot-start.png)
+![Game Start](/Screenshot/image1.png)
 
 ### Gameplay
-![Gameplay Example](screenshot-gameplay.png)
+![Gameplay Example](/Screenshot/image2.png)
 
 ## Acknowledgements
 - **Google Fonts**: For the "Exo 2" font used in the project.
@@ -68,7 +68,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## Contact
 For any questions or feedback, feel free to reach out:
 - **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **GitHub**: [Your GitHub Profile](https://github.com/CyberHunter8857)
 
 ---
 
