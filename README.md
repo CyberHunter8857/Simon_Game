@@ -3,6 +3,8 @@
 ## Overview
 The Simon Game is a classic memory game implemented using HTML, CSS, and JavaScript. The goal is to replicate the sequence of button flashes shown by the game. As you progress, the sequence grows longer, challenging your memory and attention. This project is perfect for showcasing front-end development skills and reinforcing JavaScript concepts.
 
+[Click Here](https://simon-game-silk-six.vercel.app/) to Play Game.
+
 ## Features
 - **Interactive Gameplay**: Players must replicate a growing sequence of colored button flashes.
 - **Responsive Design**: Adapts to different screen sizes with custom styles for smaller devices.
