@@ -1,86 +1,86 @@
-@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap");
 
 * {
-    font-family: "Exo 2", sans-serif;
-    margin: 5px;
+  font-family: "Exo 2", sans-serif;
+  margin: 5px;
 }
 
 body {
-    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 97vh;
-    text-align: center;
+  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 97vh;
+  text-align: center;
 }
 
 .btn {
-    height: 200px;
-    width: 200px;
-    border-radius: 20%;
-    border: 10px solid black;
-    margin: 1.5rem;
-    box-shadow: 8px 13px 29px 0px rgba(0, 0, 0, 0.61);
-    -webkit-box-shadow: 8px 13px 29px 0px rgba(0, 0, 0, 0.61);
-    -moz-box-shadow: 8px 13px 29px 0px rgba(0, 0, 0, 0.61);
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 1.5rem;
+  box-shadow: 8px 13px 29px 0px rgba(0, 0, 0, 0.61);
+  -webkit-box-shadow: 8px 13px 29px 0px rgba(0, 0, 0, 0.61);
+  -moz-box-shadow: 8px 13px 29px 0px rgba(0, 0, 0, 0.61);
 }
 
 .red {
-    background-color: red;
+  background-color: red;
 }
 
 .blue {
-    background-color: blue;
+  background-color: blue;
 }
 
 .green {
-    background-color: green;
+  background-color: green;
 }
 
 .yellow {
-    background-color: yellow;
+  background-color: yellow;
 }
 
 .button-container {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .flash {
-    background-color: white;
+  background-color: white;
 }
 
 .blank {
-    position: absolute;
-    /* or relative, fixed, etc. */
-    z-index: 5;
-    top: 50px;
-    /* Positioning relative to its container */
-    left: 50px;
-    width: 95%;
-    height: 90%;
-    background-color: transparent;
+  position: absolute;
+  /* or relative, fixed, etc. */
+  z-index: 5;
+  top: 50px;
+  /* Positioning relative to its container */
+  left: 50px;
+  width: 95%;
+  height: 90%;
+  background-color: transparent;
 }
 
 .dispnone {
-    display: none;
+  display: none;
 }
 
-@media(width<560px) {
-    .btn {
-        height: 100px;
-        width: 100px;
-        border-radius: 20%;
-        border: 5px solid black;
-        margin: 0.5rem;
-    }
+@media (width<560px) {
+  .btn {
+    height: 100px;
+    width: 100px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 0.5rem;
+  }
 
-    .blank {
-        position: absolute;
-        z-index: 5;
-        top: 50px;
-        left: 25px;
-        width: 83%;
-        height: 70%;
-        background-color: transparent;
-    }
+  .blank {
+    position: absolute;
+    z-index: 5;
+    top: 50px;
+    left: 25px;
+    width: 83%;
+    height: 70%;
+    background-color: transparent;
+  }
 }
